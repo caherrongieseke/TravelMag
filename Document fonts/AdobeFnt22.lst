@@ -1,0 +1,35 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/nomuggles/Desktop/School/DME-215-ADV-Design/Lesson.04/Final/Herron.Christopher/Document fonts/AdobeFnt22.lst
+FileLength:643
+FileModTime:665393214
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DINAlternate-Bold
+FamilyName:DIN Alternate
+StyleName:Bold
+MenuName:DIN Alternate
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DIN Alternate Bold
+WritingScript:Roman
+OutlineFileName:/Users/nomuggles/Desktop/School/DME-215-ADV-Design/Lesson.04/Final/Herron.Christopher/Document fonts/DIN Alternate Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:151528
+FileModTime:665393213
+NameArray:0,Mac,18,DIN Alternate Bold
+NameArray:0,Mac,4,DIN Alternate Bold
+NameArray:0,Win,1,DIN Alternate
+%EndFont
+
